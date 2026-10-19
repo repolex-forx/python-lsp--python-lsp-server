@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-lsp/python-lsp-server/commit/a3620069a607a63ed52569fde188e9301feae93a",
       "git:hexsha": "a3620069a607a63ed52569fde188e9301feae93a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.15.0"
     },
     {
