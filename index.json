@@ -1,0 +1,11 @@
+{
+  "org": "python-lsp",
+  "repo": "python-lsp-server",
+  "versions": [
+    {
+      "commit": "a3620069a607a63ed52569fde188e9301feae93a",
+      "tag": "v1.15.0",
+      "parsed_at": "2026-10-19T11:17:13.770314+00:00"
+    }
+  ]
+}
